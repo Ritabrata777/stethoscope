@@ -1,13 +1,14 @@
-# SIX-AUTHOR PROPRIETARY LICENSE
+SIX-AUTHOR PROPRIETARY LICENSE
 
-**Copyright © 2026 — Project Contributors**  
-**Project:** ESP32-Based Digital Stethoscope Research Prototype  
-**License Type:** Proprietary — All Rights Reserved  
-**Effective Year:** 2026
+Copyright © 2026 — Project Contributors. All Rights Reserved.
 
-## 1. Copyright Owners and Contributors
+Project: ESP32-Based Digital Stethoscope Research Prototype
+License Type: Proprietary — All Rights Reserved
+Copyright Year: 2026
 
-This project is developed and maintained by the following six contributors, collectively referred to as the **“Project Contributors”**:
+1. COPYRIGHT OWNERS AND CONTRIBUTORS
+
+This project is developed by the following six contributors, collectively referred to as the “Project Contributors”:
 
 1. Ushasi Dasgupta
 2. Rupanjan Dutta
@@ -16,89 +17,89 @@ This project is developed and maintained by the following six contributors, coll
 5. Sayan Biswas
 6. Ritabrata Majumdar
 
-The ownership of copyright and other intellectual property rights in the project shall be determined by applicable law and any written agreement among the contributors.
+Ownership of copyright and other intellectual property rights shall be determined by applicable law and any written agreement among the contributors.
 
-## 2. Copyright and Intellectual Property
+2. COPYRIGHT AND INTELLECTUAL PROPERTY
 
-Unless otherwise stated, the original materials created specifically for this project are protected by applicable copyright and intellectual property laws. Such materials may include:
+Unless otherwise stated, the original materials created specifically for this project are protected by applicable copyright and intellectual property laws. These materials may include:
 
 - Source code, firmware, and software modules.
-- Circuit designs, schematics, and original hardware documentation.
-- Software architecture and system design.
-- Original graphics, diagrams, written documentation, and research materials.
-- Other original works developed specifically for the project.
+- Circuit designs, schematics, and hardware documentation.
+- Software architecture and system designs.
+- Original graphics, diagrams, and written documentation.
+- Research materials and other original project-related works.
 
-Nothing in this licence transfers ownership of these materials to any person or organization accessing the project.
+Nothing in this License transfers ownership of these materials to any person or organization accessing the project.
 
-## 3. Grant of Rights
+3. GRANT OF RIGHTS
 
-This project is made available for viewing and reference only, subject to applicable law and the terms of this licence.
+This project is made available for viewing and reference purposes only, subject to applicable law and the terms of this License.
 
-**No licence or permission is granted to copy, modify, distribute, publish, sublicense, or commercially exploit the project's proprietary materials**, except where expressly authorized in writing by the relevant rights holders or otherwise permitted by applicable law.
+No permission is granted to copy, modify, distribute, publish, sublicense, or commercially exploit the project's proprietary materials, except where expressly authorized in writing by the relevant rights holders or otherwise permitted by applicable law.
 
-Access to a public repository does not, by itself, constitute authorization to exercise these restricted rights.
+Access to a public repository does not, by itself, grant permission to exercise these restricted rights.
 
-## 4. Restrictions on Use
+4. RESTRICTIONS ON USE
 
 Without prior written authorization from the relevant rights holders, no person or organization may, to the extent prohibited by applicable law:
 
-1. Reproduce, copy, or redistribute the project's proprietary materials.
+1. Copy, reproduce, or redistribute the project's proprietary materials.
 2. Modify, adapt, translate, or create derivative works from those materials.
 3. Publish, republish, or present the project's original work as their own.
 4. Sell, sublicense, commercially distribute, or otherwise commercially exploit the proprietary materials.
 5. Incorporate the proprietary materials into another product or project for redistribution or commercial exploitation.
 6. Remove or alter copyright notices, attribution statements, or other proprietary notices.
 
-Any permitted use must remain within the scope of the written authorization and applicable law.
+Any authorized use must remain within the scope of the written permission and applicable law.
 
-## 5. Requests for Permission
+5. REQUESTS FOR PERMISSION
 
-Requests for permission to reproduce, modify, distribute, publish, or commercially use the project's proprietary materials must be submitted to the relevant rights holders.
+Requests to reproduce, modify, distribute, publish, or commercially use the project's proprietary materials must be submitted to the relevant rights holders.
 
-Any permission granted should be documented in writing and should specify the permitted materials, purpose, scope, duration, and any applicable conditions.
+Any permission granted should be documented in writing and should specify the permitted materials, purpose, scope, duration, and applicable conditions.
 
-No individual contributor should be presumed to have authority to license materials owned jointly or by another contributor unless that authority has been established by agreement or applicable law.
+No contributor shall be presumed to have authority to license materials owned jointly or by another contributor unless that authority has been established by agreement or applicable law.
 
-## 6. Third-Party Materials
+6. THIRD-PARTY MATERIALS
 
-This licence applies only to materials in which the Project Contributors hold the relevant rights.
+This License applies only to materials in which the Project Contributors hold the relevant rights.
 
-Third-party software, libraries, hardware components, reference designs, datasets, fonts, and other incorporated materials remain subject to their respective copyright notices, licences, and terms of use.
+Third-party software, libraries, hardware components, reference designs, datasets, fonts, and other incorporated materials remain subject to their respective copyright notices, licenses, and terms of use.
 
-Where a third-party licence grants rights that differ from the restrictions in this document, that licence governs the relevant third-party material. Nothing in this document is intended to override rights granted by a valid third-party licence.
+Where a third-party license grants rights that differ from the restrictions in this document, that license governs the relevant third-party material. Nothing in this License overrides rights granted under a valid third-party license.
 
-## 7. Research and Educational Purpose
+7. RESEARCH AND EDUCATIONAL PURPOSE
 
 The ESP32-Based Digital Stethoscope Research Prototype is an experimental project intended for educational, engineering, and research purposes.
 
-The project has not been established as a clinically validated medical device. Unless separately validated and appropriately authorized, it must not be relied upon for medical diagnosis, treatment decisions, patient monitoring in clinical practice, or the prevention of medical conditions.
+The project has not been established as a clinically validated medical device. Unless separately validated and appropriately authorized, it must not be relied upon for medical diagnosis, treatment decisions, clinical patient monitoring, or the prevention of medical conditions.
 
 All testing and evaluation must be conducted responsibly, with appropriate safety precautions and compliance with applicable ethical, institutional, and legal requirements.
 
-## 8. Disclaimer of Warranty and Liability
+8. DISCLAIMER OF WARRANTY AND LIABILITY
 
-To the maximum extent permitted by applicable law, the project and its materials are provided **“AS IS” and “AS AVAILABLE,”** without warranties or representations of any kind, whether express or implied, including warranties of merchantability, fitness for a particular purpose, accuracy, reliability, or non-infringement.
+To the maximum extent permitted by applicable law, the project and its materials are provided “AS IS” and “AS AVAILABLE,” without warranties or representations of any kind, whether express or implied, including warranties of merchantability, fitness for a particular purpose, accuracy, reliability, or non-infringement.
 
 To the extent permitted by applicable law, the Project Contributors disclaim liability for claims, damages, or losses arising from the use of, inability to use, modification of, or reliance upon the project.
 
 Nothing in this section excludes or limits any liability or legal right that cannot lawfully be excluded or limited.
 
-## 9. Reservation of Rights
+9. RESERVATION OF RIGHTS
 
 All rights in the proprietary materials that are not expressly granted by the relevant rights holders or under applicable law are reserved.
 
 No rights are granted by implication, estoppel, or otherwise, except as required by applicable law.
 
-## 10. Governing Law
+10. GOVERNING LAW
 
-This licence shall be interpreted in accordance with applicable law. Any determination of governing law, jurisdiction, or dispute resolution shall be subject to applicable legal requirements and any valid written agreement among the relevant rights holders.
+This License shall be interpreted in accordance with applicable law. Any determination of governing law, jurisdiction, or dispute resolution shall be subject to applicable legal requirements and any valid written agreement among the relevant rights holders.
 
-## 11. Acceptance of Terms
+11. ACCEPTANCE OF TERMS
 
-By accessing or using the project's materials, users acknowledge that the materials may be subject to copyright and other intellectual property protections. Any use beyond what is permitted by applicable law requires authorization from the relevant rights holders.
+By accessing or using the project's materials, users acknowledge that the materials may be subject to copyright and other intellectual property protections.
 
----
+Any use beyond what is permitted by applicable law requires authorization from the relevant rights holders.
 
-**END OF LICENCE**
+END OF LICENSE
 
-**Copyright © 2026 — Project Contributors. All Rights Reserved.**
+Copyright © 2026 — Project Contributors. All Rights Reserved.
